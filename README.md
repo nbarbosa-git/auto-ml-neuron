@@ -1,2 +1,2 @@
 # auto-ml-neuron
-Material Auto-ml neuron ds
+Notebook de apoio para artigo no site neuronds.com
